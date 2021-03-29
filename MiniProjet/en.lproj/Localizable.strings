@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  MiniProjet
+
+  Created by Karim BEN-HAMMOUDA on 27/03/2021.
+  
+*/
+
+"title"  = "LEBONPRODUIT";
+"select_Categories" = "Select your category";
+"all_Categories" = "All";
+"urgent_Title" = "Urgent";
+"done_Title" = "Done";

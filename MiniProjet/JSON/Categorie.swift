@@ -1,0 +1,13 @@
+//
+//  Categorie.swift
+//  MiniProjet
+//
+//  Created by Karim BEN-HAMMOUDA on 27/03/2021.
+//
+
+import Foundation
+
+struct Categorie: Decodable {
+    let id: Int?
+    let name: String?
+}
